@@ -1,0 +1,15 @@
+name: geoai_retail
+channels:
+  - knu2xs
+  - esri
+  - conda-forge
+  - defaults
+dependencies:
+  - arcgis>=1.7.0
+  - ba-tools
+  - nodejs
+  - pyarrow
+  - pylint
+  - pytest
+  - python-dotenv
+  - scikit-learn
